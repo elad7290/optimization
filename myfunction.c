@@ -1,4 +1,4 @@
-//312531973 elad baal-tzdaka
+
 #include "stdlib.h"
 
 #define min(A, B) (A < B ? A : B)
